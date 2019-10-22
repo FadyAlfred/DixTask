@@ -30,7 +30,7 @@ MarkupSafe==1.0
 nexmo==2.0.0
 oauthlib==2.0.6
 phonenumberslite==8.8.10
-Pillow==5.0.0
+Pillow==6.2.0
 psycopg2==2.7.3.2
 pycparser==2.18
 pyfcm==1.4.3
