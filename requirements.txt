@@ -24,7 +24,7 @@ gunicorn==19.7.1
 idna==2.6
 inflection==0.3.1
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 livereload==2.5.1
 MarkupSafe==1.0
 nexmo==2.0.0
